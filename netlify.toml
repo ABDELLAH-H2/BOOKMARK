@@ -1,0 +1,6 @@
+[build]
+  # "." means the website files are in the root folder
+  publish = "." 
+  
+  # Backend functions are in the 'functions' folder
+  functions = "functions"
